@@ -19,7 +19,7 @@ const Footer = () => {
     },
     {
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/shivam-mishra-0985bb311/",
+      href: "https://www.linkedin.com/in/shivam-mishra-cs/",
       icon: <FaLinkedin size={18} />,
     },
     {
