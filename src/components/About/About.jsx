@@ -44,7 +44,7 @@ const About = () => {
           </p>
 
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1wI57E_GeyOFfGBlaE_MfUSTzErK9UqiT/view?usp=sharing"
             className="hero-button animate-pulse-glow"
           >
             DOWNLOAD CV
